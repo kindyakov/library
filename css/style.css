@@ -175,8 +175,6 @@ html._lock {
 body {
   color: #414141;
   font-size: 16px;
-  -ms-touch-action: none;
-      touch-action: none;
 }
 
 body._lock {
